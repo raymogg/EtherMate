@@ -24,14 +24,12 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###EtherMate Privacy Policy
 
-### Jekyll Themes
+##Summary
+#Personal Data Collected
+EtherMate does not collect any personal data. Scanned QR Codes and Ethereum Public Wallet Addresses may be stored locally on the device but these are never stored offsite by EtherMate.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raymogg/EtherMate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Mode and place of processing the Data
+Data in the app is processed when the user opts to scan a QR Address. This address is recorded and stored locally within the app.
